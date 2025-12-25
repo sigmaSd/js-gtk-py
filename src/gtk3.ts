@@ -1,4 +1,4 @@
-import type { Callback, NamedArgument } from "@denosaurs/python";
+import type { Callback, NamedArgument } from "@sigma/python";
 import type { Callback2 } from "./internal_types.ts";
 
 export interface Gtk {

@@ -1,4 +1,4 @@
-export * from "@denosaurs/python";
+export * from "@sigma/python";
 
 export * as Gtk4_ from "./src/gtk4.ts";
 export * as Gtk3_ from "./src/gtk3.ts";
